@@ -522,3 +522,21 @@ footer {
         margin-left: 10rem;
     }
 }
+
+@media (max-width: 37.5rem) {
+    .nav {
+        padding: 0 3rem;
+    }
+
+    .bg-img {
+        width: 30rem;
+        height: 30rem;
+    }
+    .bg-img img {
+        width: 25rem;
+    }
+
+    .footer-nav {
+        margin-left: 7rem;
+    }
+}
